@@ -1,5 +1,5 @@
 # int-systems-univ
-First lab - run in jupyter notebook, write something to input, bot will answer you, after typing "Bye" program will stop. Trained on wikipediaQA.  
+First lab - run in jupyter notebook, write something to input, bot will answer you, after typing "Bye" program will stop. Trained on MovieCorpus.  
   
 Second lab - copy to program in https://swish.swi-prolog.org/, run func(a,b), it prints the result - eiser these two were met transitively(as in "five handshakes theory" but we are not limited to maximum of five) or not.   
   
