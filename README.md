@@ -1,7 +1,7 @@
 # int-systems-univ
 First lab - run in jupyter notebook, write something to input, wait and ignore warnings about stop words inconsistance - bot will answer you, after typing "Bye" program will stop. Trained on MovieCorpus.  
   
-Second lab - copy to program in https://swish.swi-prolog.org/, run func(a,b), it prints the result - eiser these two were met transitively(as in "five handshakes theory" but we are not limited to maximum of five) or not.   
+Second lab - copy to program in https://swish.swi-prolog.org/, run func(a,b), it prints the result - either these two were met transitively(as in "five handshakes theory" but we are not limited to maximum of five) or not.   
   
 Fourth-Fifth(fourth) lab - run in jupyter notebook, input is hardcoded. In the output there is log with final timetable and a lot of not-painted as table results we got after mutations which are candidates with best score an the score itself. Smaller score - better timetable is. TEACHER_DAY and GROUP_DAY - weight which represent how much group or teacher didn't want to go to university, another thing which influences score is how long  you should be in university. Limitations is that L auds can't have more than one half-group in it. Fifth is done by my teammate.    
   
